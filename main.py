@@ -10,7 +10,7 @@ import cv2
 # from project.case.dcnn import Net
 from ED import Net
 # from project.case.ED import Net
-# from project.case.MUNET import Net	#运行ED-MUNET需要将ED的运行结果输出给MUNET并更改MUNET的卷积维度
+# from project.case.MUNET import Net	
 # from project.case.U_Net import Net
 import matplotlib
 matplotlib.use('Agg')
